@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css2?family=Buda:wght@300&family=Joan&family=Judson:ital,wght@0,400;0,700;1,400&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+.Main-Skills {
+    transform: translateY(250px);
+    text-align: center;
+}
+
+.h1-Skills {
+    font-size: 30px;
+    color: white;
+}
+
+
+
+
+.Span-Skills {
+    color: #FF8181;
+}
+
+h4 {
+    color: white;
+    font-size: 15px;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.containerPai {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.Skills {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+
+}
+
+.html {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    width: 65px;
+    height: 25px;
+    border: 2px solid #BCA421;
+    background-color: #BA7F11;
+    border-radius: 12px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    
+}
+
+.Skills .html:hover {
+    transform: scale(1.1);
+    transition: transform 0.2s, filter 0.2s ease-in;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    filter: drop-shadow(0px 0px 5px #BA7F11);
+}
+
+.css {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    width: 50px;
+    height: 25px;
+    border: 2px solid #237299;
+    background-color: #6AC8F8;
+    border-radius: 12px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.Skills .css:hover {
+    transform: scale(1.1);
+    transition: transform 0.2s, filter 0.2s ease-in;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    filter: drop-shadow(0px 0px 5px #6AC8F8);
+}
+
+.js {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    width: 85px;
+    height: 25px;
+    border: 2px solid #B9C334;
+    background-color: #818a4e;
+    border-radius: 12px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.Skills .js:hover {
+    transform: scale(1.1);
+    transition: transform 0.2s, filter 0.2s ease-in;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    filter: drop-shadow(0px 0px 5px #818a4e);
+}
+
+.rct {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    width: 60px;
+    height: 25px;
+    border: 2px solid #3f5669;
+    background-color: #2CAEFF;
+    border-radius: 12px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.Skills .rct:hover {
+    transform: scale(1.1);
+    transition: transform 0.2s, filter 0.2s ease-in;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    filter: drop-shadow(0px 0px 5px #2CAEFF);
+}
+
+.nod {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    width: 70px;
+    height: 25px;
+    border: 2px solid #467e73;
+    background-color: #188630;
+    border-radius: 12px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.Skills .nod:hover {
+    transform: scale(1.1);
+    transition: transform 0.2s, filter 0.2s ease-in;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    filter: drop-shadow(0px 0px 5px #188630);
+}
+
+
+.ex {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    width: 65px;
+    height: 25px;
+    border: 2px solid #4911BA;
+    background-color: #D978FF;
+    border-radius: 12px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.Skills .ex:hover {
+    transform: scale(1.1);
+    transition: transform 0.2s, filter 0.2s ease-in;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    filter: drop-shadow(0px 0px 5px #D978FF);
+}
+
+.sql {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    width: 70px;
+    height: 25px;
+    border: 2px solid #F3C5C6;
+    background-color: #BA113B;
+    border-radius: 12px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.Skills .sql:hover {
+    transform: scale(1.1);
+    transition: transform 0.2s, filter 0.2s ease-in;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    filter: drop-shadow(0px 0px 5px #BA113B);
+}
+
+.git {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    width: 40px;
+    height: 25px;
+    border: 2px solid #35322C;
+    background-color: #AAA9A2;
+    border-radius: 12px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.Skills .git:hover {
+    transform: scale(1.1);
+    transition: transform 0.2s, filter 0.2s ease-in;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    filter: drop-shadow(0px 0px 5px #AAA9A2);
+}
+
+.fig {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    width: 60px;
+    height: 25px;
+    border: 2px solid #BA11AF;
+    background-color: #B67FB7;
+    border-radius: 12px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.Skills .fig:hover {
+    transform: scale(1.1);
+    transition: transform 0.2s, filter 0.2s ease-in;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    filter: drop-shadow(0px 0px 5px #B67FB7);
+}
+
+
+
+

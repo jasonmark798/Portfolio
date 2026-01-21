@@ -1,0 +1,32 @@
+.Contato h5 {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+.Contato span {
+    color: #76DA5D;
+}
+
+.Contato {
+    transform: translateY(520px);
+}
+
+.Redes {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.icon {
+    margin-top: 50px;
+    width: 70px;
+    border: none;
+}
+
+.icon:hover {
+    transform: scale(1.1);
+    filter: drop-shadow(0px 0px 10px #c5c5c5);
+    transition: transform 0.2s, filter 0.2s ease-in;
+}
