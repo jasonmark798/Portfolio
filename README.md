@@ -1,16 +1,23 @@
-# React + Vite
+Meu Portfólio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é o meu portfólio pessoal, criado para apresentar meus projetos e habilidades como desenvolvedor. O objetivo principal é mostrar de forma clara e interativa os trabalhos que já realizei e minhas competências técnicas.
 
-Currently, two official plugins are available:
+Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+O portfólio foi desenvolvido com as seguintes tecnologias:
 
-## React Compiler
+HTML – Estrutura das páginas e organização do conteúdo.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+CSS – Estilização e design responsivo, garantindo uma boa experiência em dispositivos diferentes.
 
-## Expanding the ESLint configuration
+JavaScript – Funcionalidades dinâmicas e interatividade.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React – Criação de componentes reutilizáveis e gerenciamento do estado da aplicação de forma eficiente.
+
+Funcionalidades
+
+Seção de projetos: Mostra todos os projetos que desenvolvi, com links para visualização e detalhes.
+
+Design responsivo: O portfólio se adapta a diferentes tamanhos de tela, incluindo desktops, tablets e smartphones.
+
+Interatividade: Efeitos visuais e navegação fluida para melhorar a experiência do usuário.
