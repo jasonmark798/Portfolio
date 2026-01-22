@@ -41,3 +41,25 @@ i {
 }
 
 
+@media screen and (max-width: 500px) {
+    header {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 501px) and (max-width: 1100px) {
+    
+    header {
+        display: flex;
+        justify-content: center;
+        border: 2px solid red;
+    }
+    
+    nav {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: 2px solid red;
+        transform: translateX(0px);
+    }
+}
