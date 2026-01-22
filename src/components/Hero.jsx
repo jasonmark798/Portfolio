@@ -7,7 +7,7 @@ export default function Hero() {
             <h1 style={style.h1}>Bem vindo ao meu <span className="span-Hero">Portfólio!</span></h1>
             <h2 style={style.h2}>//Desenvolvedor Full-stack</h2>
             <div className="Div-Img">
-                <img src="./MinhaImg.jpg" alt="MinhaImagem" />
+                <img src="./imagemMinha.jpg" alt="MinhaImagem" />
             </div>
             <a href="./MeuCurriculo.pdf" download><button className="ButtonHero" style={style.button}>Currículo</button></a>
         </main>
